@@ -1,0 +1,3 @@
+
+about even_or_odd:
+if a number mod 2 == 0  => So it is even else, it is odd.

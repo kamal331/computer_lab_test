@@ -1,0 +1,5 @@
+about is_prime:
+1- if we want to find taht if a number is prime or not, we should find if 
+a number just have 2 maghsom alaih. So I'll find if number, doesn't have a maghsom alaih from 2 to number - 1.
+2- instead of using liner search to n-1, I'll search to sqrt of it. Because the biggest maghsom alaih of a number, is the sqrt of it.
+3- instead of using sqrt (because sqrt is not efficient) I'll use product to find it.
